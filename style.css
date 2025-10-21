@@ -1,0 +1,16 @@
+body{
+    background-color: blanchedalmond;
+}
+aside{
+    background-color: beige;
+}
+.sidebar{
+    flex-basis: 1rem;
+    flex-grow: 1;
+}
+.with-sidebar{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1rem;
+    gap: 1rem;
+}
